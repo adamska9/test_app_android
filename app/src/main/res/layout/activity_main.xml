@@ -14,7 +14,7 @@
         android:background="#FFAB40"
         android:foreground="@android:drawable/btn_dialog"
         android:foregroundGravity="right"
-        android:text="@string/megamind"
+        android:text="MEGAMIND"
         android:textColor="#601414"
         android:textStyle="bold|italic"
         app:layout_constraintBottom_toBottomOf="parent"
